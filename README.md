@@ -15,8 +15,8 @@ This program was created to complete scientific writing assignments with the tit
 9. Click the R button to reset the right calculation or the L button to reset the left calculation.
 10. To stop the system, click the Q button.
 
-#[Specifications I Use]
-Python : versions 3.8 - 3.10
-Proc : i5 10300h
-Ram: 8GB DDR4
+#[Specifications I Use]<br>
+Python : versions 3.8 - 3.10<br>
+Proc : i5 10300h<br>
+Ram: 8GB DDR4<br>
 GPU: Nvidia GTX 1060Ti
